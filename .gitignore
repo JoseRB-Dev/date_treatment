@@ -10,3 +10,8 @@ wheels/
 .venv
 
 uv.lock
+
+CLAUDE.md
+pyproject.toml
+.pyhton-version
+.claude
